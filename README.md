@@ -1,3 +1,3 @@
 # Thru-OS
-An operating system I am trying to make.
-Please do not re-distribute this OS as your own, I will mix my own programming and some open source kernels.
+A simple operating system I am trying to make.
+I am hoping to at least get most of the stuff under the hood done.
